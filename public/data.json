@@ -1,0 +1,68 @@
+[
+    {
+      "id": "6249d34642d65edbf2a08884",
+      "index": 0,
+      "picture": "./images/user-1.jpg",
+      "age": 21,
+      "name": "Jewel Berg",
+      "gender": "female",
+      "email": "jewelberg@limozen.com",
+      "reviews": "Today I'm going to share a book review of The Miracle Morning by Hal Elrod. The author talks about the importance of morning routine and how to design your morning miracle to transform your life.This book will inspire you to review your morning routine and implement effective strategies to balance, optimize and maximize your life. You'll find an actionable framework you can use to improve your life. It's called Life S.A.V.E.R.S and stands for Silence, Affirmations, Visualization, Exercise, Reading and Scribing.\r\n",
+      "ratings": 5
+    },
+    {
+      "id": "6249d346ea71fb50f2b9e1fa",
+      "index": 1,
+      "picture": "./images/user-2.jpg",
+      "age": 31,
+      "name": "Lane Tyler",
+      "gender": "male",
+      "email": "lanetyler@limozen.com",
+      "reviews": "Excellent Book!!! I almost didn't get the book because I read the 1 star reviews and they said it was a simplistic redo of the same messages many others had done. Well, I am so happy I went ahead and bought it in spite of the negative reviews. As you can see I'm a 5 star for the book. I heard Hal Elrod on a webinar and was excited to read the book based upon his presentation, there were a lot of 5 star reviews and I decided to get it. After reading the book, I do not understand the negativity of the 1 star reviewers. Condensing important behaviors into actionable action steps is a good thing in my evaluation. Keeping it simple even better. I found it to be a very smooth transition into the new routine.\r\n",
+      "ratings": 5
+    },
+    {
+      "id": "6249d34668ee0b849528c42d",
+      "index": 2,
+      "picture": "./images/user-3.jpeg",
+      "age": 37,
+      "name": "Sloan Herrera",
+      "gender": "male",
+      "email": "sloanherrera@limozen.com",
+      "reviews": "Est tempor labore Lorem nulla cillum nulla laborum ut. Laborum eu veniam quis est nulla aute esse veniam aute ex non anim. Incididunt irure aute cillum cillum cillum.\r\n",
+      "ratings": 3
+    },
+    {
+      "id": "6249d346e2c2b5925f6e22a8",
+      "index": 3,
+      "picture": "./images/user-4.jpeg",
+      "age": 39,
+      "name": "Morgan Chen",
+      "gender": "female",
+      "email": "morganchen@limozen.com",
+      "reviews": "Reprehenderit proident nisi non minim aute fugiat aliquip mollit nostrud nostrud velit elit mollit irure. In occaecat incididunt non ut id aliqua proident minim in excepteur incididunt occaecat velit. Aliqua amet incididunt qui dolor proident. Culpa non cupidatat exercitation tempor nisi. Id do consequat cillum nisi excepteur aute. Non ea consequat Lorem fugiat nisi consectetur deserunt voluptate excepteur minim nulla eu magna.\r\n",
+      "ratings": 4
+    },
+    {
+      "id": "6249d34687c739337a2654c2",
+      "index": 4,
+      "picture": "./images/user-5.jpg",
+      "age": 28,
+      "name": "Eunice Daniel",
+      "gender": "female",
+      "email": "eunicedaniel@limozen.com",
+      "reviews": "Velit irure magna sunt aute eu dolore et laboris do commodo minim. Reprehenderit exercitation nulla quis nostrud voluptate anim qui. Dolor et ad ea nisi in tempor.\r\n",
+      "ratings": 5
+    },
+    {
+      "id": "6249d346cc5e6674b607922f",
+      "index": 5,
+      "picture": "./images/user-6.jpeg",
+      "age": 35,
+      "name": "Sheila Kane",
+      "gender": "female",
+      "email": "sheilakane@limozen.com",
+      "reviews": "Adipisicing sunt esse Lorem ex qui. Deserunt veniam nisi eu non excepteur in irure adipisicing reprehenderit qui esse elit qui. Nisi do dolore qui nulla sit deserunt ullamco nulla irure amet. Nisi aliquip mollit amet tempor sunt exercitation exercitation do.\r\n",
+      "ratings": 3
+    }
+  ]
