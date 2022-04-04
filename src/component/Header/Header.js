@@ -5,7 +5,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className='bg-slate-300 p-4 flex justify-between'>
+        <div className='bg-slate-300 p-4 flex justify-between sticky top-0'>
             <div>
                 <Link to = '/home' className='text-gray-500 font-bold text-lg md:text-3xl font-serif hover:text-slate-900'>BooK Forest</Link>
             </div>
@@ -13,6 +13,7 @@ const Header = () => {
                 <CustomLink className='text-gray-600 hover:text-slate-900' to = '/home'>Home</CustomLink>
                 <CustomLink className='text-gray-600 hover:text-slate-900' to = '/review'>Reviews</CustomLink>
                 <CustomLink className='text-gray-600 hover:text-slate-900' to = '/dashboard'>Dashboard</CustomLink>
+                <CustomLink className='text-gray-600 hover:text-slate-900' to = '/blogs'>Blogs</CustomLink>
             </nav>
         </div>
     );
