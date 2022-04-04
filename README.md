@@ -1,8 +1,8 @@
 # Getting Started with Book Forest
 
-This project was bootstrapped with [Book Forest](https://leafy-parfait-f6d9fd.netlify.app/review).
+This project is Developed By React With Tailwind CSS Framework [Book Forest](https://leafy-parfait-f6d9fd.netlify.app/review).
 
-## Available Scripts
+* Available Scripts
 
 In the project directory, you can run:
 
