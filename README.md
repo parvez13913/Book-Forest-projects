@@ -2,7 +2,10 @@
 
 This project is Developed By React With Tailwind CSS Framework [Book Forest](https://leafy-parfait-f6d9fd.netlify.app/review).
 
-* Available Scripts
+* This project is Developed By React.
+* This Project Uses Tailwind Vanilla CSS And JavaScript.
+* This project is about the book The Miracle Morning.
+* Readers who have read the book and reviewed it are highlighted in this project.
 
 In the project directory, you can run:
 
